@@ -40,6 +40,7 @@
     - [Well-formedness checking](./traits/wf.md)
     - [The SLG solver](./traits/slg.md)
     - [An Overview of Chalk](./traits/chalk-overview.md)
+      - [Designing Chalk Rules](./traits/chalk-designing-rules.md)
     - [Bibliography](./traits/bibliography.md)
 - [Type checking](./type-checking.md)
     - [Method Lookup](./method-lookup.md)
